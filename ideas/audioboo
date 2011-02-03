@@ -1,8 +1,12 @@
 In from Audioboo <http://audioboo.fm>
 
-    We're releasing some audioboo frameworks to a radio station next
-    week, which integrate recording and playback into their existing
-    iPhone app with a minimum of work. 
+    The Audioboo plugin for iPhone is now in beta.  You can join
+    the beta list by posting a message at
+    http://forum.audioboo.fm/discussions/iphone-plugin
+
+    The architecture allows for rapid inclusion of audioboo record &
+    playback functionality into any app, with the extra facility of
+    posting these publicly or privately.
     
     Listeners will be able to send audio direct to the station, who
     can then moderate it and choose to push it live to the app and the
